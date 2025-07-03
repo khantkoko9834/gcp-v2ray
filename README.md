@@ -113,7 +113,7 @@ Use the following settings in your client app:
 | UUID       | `a3b7de87-b46f-4dcf-b6ed-5bf5ebe83167` |
 | Encryption | none                                   |
 | Transport  | WebSocket (WS)                         |
-| WS Path    | `/notragnar`                           |
+| WS Path    | `/notkokhant`                           |
 | TLS        | Yes (via Google CDN)                   |
 
 ---
@@ -144,7 +144,7 @@ This project is licensed under the **MIT License**.
 
 ## 👤 Author
 
-Made with ❤️ by [Ragnar](https://t.me/not_ragnar)
+Made with ❤️ by [Ko Khant](https://t.me/KoKhant834)
 
 ---
 
