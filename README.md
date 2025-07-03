@@ -144,7 +144,7 @@ This project is licensed under the **MIT License**.
 
 ## 👤 Author
 
-Made with ❤️ by [Ragnar](https://t.me/not_ragnar)
+Made with ❤️ by [Ko Khant](https://t.me/KoKhant834)
 
 ---
 
